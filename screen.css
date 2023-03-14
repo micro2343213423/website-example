@@ -4,7 +4,7 @@ header {
     margin-left: auto;
     font-family: Georgia, Arial, Helvetica, serif;
     text-align: center;
-    background-image: url("../source material 6.1/images/header.jpg");
+    background-image: url("header.jpg");
     background-position: top left;
     box-shadow: rgba(51,53,55,0.4) 0.375rem 0.125rem 2.5rem;
     }
@@ -17,7 +17,7 @@ header h2 {
 
 header h1 {
 color: #FFFFFF;
-    background-image: url("../source material 6.1/images/line.gif");
+    background-image: url("line.gif");
     background-repeat: no-repeat;
     background-position: 17rem 0.7rem;
     padding-bottom: 3.125rem;
